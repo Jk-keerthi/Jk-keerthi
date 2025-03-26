@@ -6,10 +6,8 @@
     <td>
       <ul>
         <li>📄 <strong>My Resume:</strong>  
-          <a href="https://raw.githubusercontent.com/Jk-keerthi/portfolio/main/keerthi_resume.pdf" target="_blank" download="keerthi_resume.pdf">
-            Download My Resume
-          </a>
-        </li>
+  <a href="https://github.com/Jk-keerthi/portfolio/raw/main/keerthi_resume.pdf" target="_blank" download>Download My Resume</a>
+      </li>
 
         <li>📌 All about me is at <a href="https://jk-keerthi.github.io/portfolio/">My Website</a></li>
         <li>🔭 I'm currently studying <strong>Electronics and Communication Engineering</strong> at <strong>Ballari Institute of Technology and Management</strong></li>
@@ -23,6 +21,7 @@
       <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300px">
     </td>
   </tr>
+</table>
 </table>
 
 
