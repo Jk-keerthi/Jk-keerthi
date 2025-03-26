@@ -6,7 +6,7 @@
     <td>
       <ul>
         <li>📄 <strong>My Resume:</strong>  
-          <a href="https://github.com/Kirangn24/Kirangn24/raw/main/Kiran_1year_Year.pdf" target="_blank">Download My Resume</a>
+          <a href="https://github.com/Jk-keerthi/portfolio/blob/main/keerthi_resume.pdf" target="_blank">Download My Resume</a>
         </li>
         <li>📌 All about me is at <a href="https://jk-keerthi.github.io/portfolio/">My Website</a></li>
         <li>🔭 I'm currently studying <strong>Electronics and Communication Engineering</strong> at <strong>Ballari Institute of Technology and Management</strong></li>
